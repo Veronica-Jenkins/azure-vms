@@ -30,8 +30,9 @@ Create a resource group and select a region.
 Type <b><i>virtual machine</i></b> in the search bar. Select <b><i>create virtual machine</i></b>. Name the first virtual machne and select the region (*NOTE: Make sure the virtual machines are in the same region as the resource group that was created). From the dropdown menu select the following:
   
 - <b>IMAGE:</b> Windows 10 Pro Version 22H2- 64-bit Gen 2
-- <b>SIZE:</b> Standard_E2s_v3-2 vcps 16 GiB Memory      
-Create a username and password (this will be needed in order to login remotely to the vm)
+- <b>SIZE:</b> Standard_E2s_v3-2 vcps 16 GiB Memory</br>
+
+Create a username and password (this will be needed in order to login remotely to the vm).
 
 </p>
 <br />

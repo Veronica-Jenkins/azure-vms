@@ -1,30 +1,20 @@
 
 
 <h1>Creating Virtual Machines</h1>
-This tutorial outlines how to create Azure Virtual Machines.<br />
-
-
-
-<h2>Environments and Technologies Used</h2>
+This tutorial outlines how to create Azure Virtual Machines.</br>
+</br>
+<h2>Environments & Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+- Windows 10 (22H2)
+- Linux (Ubuntu Server)
+</br>
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
-<h2>Deployment and Configuration Steps</h2>
+<h2>Learning How to Create Virtual Machines</h2></br>
 
 <p>
 <img src="https://i.imgur.com/kr6ZAkY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

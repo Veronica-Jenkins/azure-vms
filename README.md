@@ -45,11 +45,22 @@ Go to --><b>Next:Disks</b> ---><b>Next:Networking</b> - Choose the already creat
 <p>
 <img src="https://i.imgur.com/FA3caNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+The virtual machine is created!
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/3pnhN4w.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+When creating the second virtual machine, follow the same steps used for the first machine. Since the second machine will be running on a Linux server, the image selection will be different (see below).
+  
+- <b>IMAGE:</b> Ubuntu Server 20.04 LTS-Gen 2
+- <b>SIZE:</b> Standard_E2s_v3-2 vcps 16 GiB Memory</br>
 
+Create a username and password for this new virtual machine as well.
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/m9YuEqL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -61,6 +72,19 @@ Go to --><b>Next:Disks</b> ---><b>Next:Networking</b> - Choose the already creat
 <p>
 <img src="https://i.imgur.com/avGz6fH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+Now that both machines are created, we'll use the remote desktop (for Windows) to log into Virtual Machine 1 (VM1). Go to the bottom left hand corner of the screen and in the search bar type in <b><i>Remote Desktop Connection</i></b>. Copy the public IP Address for VM1 then paste it in
+
+
+Click VM1 connect
+Go to search bar at bottom of screen type in remote desktop connection.
+Copy public IP address for vm1 then paste.
+
+</p>
+<br />
+
+
+
+
 
 
 <p>

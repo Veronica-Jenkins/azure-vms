@@ -72,25 +72,8 @@ Create a username and password for this new virtual machine as well.
 <p>
 <img src="https://i.imgur.com/avGz6fH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Now that both machines are created, we'll use the remote desktop (for Windows) to log into Virtual Machine 1 (VM1). Go to the bottom left hand corner of the screen and in the search bar type in <b><i>Remote Desktop Connection</i></b>. Copy the public IP Address for VM1 then paste it in
-
-
-Click VM1 connect
-Go to search bar at bottom of screen type in remote desktop connection.
-Copy public IP address for vm1 then paste.
-
-</p>
-<br />
-
-
-
-
-
+Now that both machines are created, we'll use the remote desktop (for Windows) to log into Virtual Machine 1 (VM1). Go to the bottom left hand corner of the screen and in the search bar type in <b><i>Remote Desktop Connection</i></b>. Copy the public IP Address for VM1 then paste it in the computer section. Use the username and password that was created earlier and hit <b>Connect</b>. 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+In the next selection we'll explore testing traffic between VM1 and VM2.
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />

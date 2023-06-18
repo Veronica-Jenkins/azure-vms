@@ -74,6 +74,4 @@ Create a username and password for this new virtual machine as well.
 </p>
 Now that both machines are created, we'll use the remote desktop (for Windows) to log into Virtual Machine 1 (VM1). Go to the bottom left hand corner of the screen and in the search bar type in <b><i>Remote Desktop Connection</i></b>. Copy the public IP Address for VM1 then paste it in the computer section. Use the username and password that was created earlier and hit <b>Connect</b>. 
 
-<p>
-In the next selection we'll explore testing traffic between VM1 and VM2.
-</p>
+</br>In the next section, we'll explore testing traffic between VM1 and VM2.

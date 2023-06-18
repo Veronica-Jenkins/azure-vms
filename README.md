@@ -32,14 +32,16 @@ Type <b><i>virtual machine</i></b> in the search bar. Select <b><i>create virtua
 - <b>IMAGE:</b> Windows 10 Pro Version 22H2- 64-bit Gen 2
 - <b>SIZE:</b> Standard_E2s_v3-2 vcps 16 GiB Memory</br>
 
-Create a username and password (this will be needed in order to login remotely to the vm).
-
+Create a username and password (this will be needed in order to login remotely to the virtual machine).
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/RWsGm9i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
+<p>
+Go to --><b>Next:Disks</b> ---><b>Next:Networking</b> - Choose the already created virtual machine network then select <b><i>Review + Create</i></b>
+</p>
+<br />
 <p>
 <img src="https://i.imgur.com/FA3caNL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
